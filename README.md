@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, I'm Anthony
 
-<!--
-**yangml103/yangml103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Facts about me:
 
-Here are some ideas to get you started:
+- Senior majoring in Neuroscience and Computer Science (recently added)
+- From Hong Kong 
+- Looking to work in Software Development or Machine Learning in the future
+- Planning to pursue a master's degree
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Ask me about:
+
+- Motorcycles
+- Percy Jackson Lore
+- JDM Cars 
+
+How to reach me:
+
+Email - anthony.yangml@gmail.com
+
+Fun fact: I was born on my dad's birthday!
+
+My Resume:
+
+- [Resume.pdf](https://github.com/yangml103/yangml103/files/8082070/Resume.pdf)
