@@ -17,7 +17,8 @@ Ask me about:
 
 How to reach me:
 
-Email - anthony.yangml@gmail.com
+Email - anthony.yangml@gmail.com 
+
 Linkedin - https://www.linkedin.com/in/man-lung-yang/
 
 Fun fact: I was born on my dad's birthday!
