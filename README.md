@@ -3,7 +3,7 @@
 Facts about me:
 
 - Senior majoring in Neuroscience and Computer Science (recently added)
-- Vice President of Boston University's Healthcare for the Homeless Organisation
+- President of Boston University's Healthcare for the Homeless Organisation
 - From Hong Kong 
 - Looking to work in Software Development or Machine Learning in the future
 - Planning to pursue a master's degree
