@@ -12,7 +12,7 @@ Facts about me:
 Ask me about:
 
 - Motorcycles
-- Percy Jackson Lore
+- Greek Mythology
 - JDM Cars 
 
 How to reach me:
