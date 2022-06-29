@@ -2,7 +2,7 @@
 
 Facts about me:
 
-- Senior majoring in Neuroscience and Computer Science (recently added)
+- Senior majoring in Neuroscience and Computer Science 
 - President of Boston University's Healthcare for the Homeless Organisation
 - From Hong Kong 
 - Looking to work in Software Development or Machine Learning in the future
@@ -23,6 +23,3 @@ Linkedin - https://www.linkedin.com/in/man-lung-yang/
 
 Fun fact: I was born on my dad's birthday!
 
-My Resume:
-
-- [Resume.pdf](https://github.com/yangml103/yangml103/files/8082070/Resume.pdf)
