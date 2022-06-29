@@ -11,9 +11,9 @@ Facts about me:
 
 Ask me about:
 
-- Motorcycles
-- Greek Mythology
-- JDM Cars 
+- Food recommendations 
+- Greek mythology
+- Japanese sportscars 
 
 How to reach me:
 
