@@ -23,3 +23,4 @@ Linkedin - https://www.linkedin.com/in/man-lung-yang/
 
 Fun fact: I was born on my dad's birthday!
 
+Resume: https://github.com/yangml103/yangml103/blob/main/Resume%20copy.pdf
