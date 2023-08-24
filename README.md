@@ -2,10 +2,9 @@
 
 Facts about me:
 
-- Senior majoring in Neuroscience and Computer Science 
-- President of Boston University's Healthcare for the Homeless Organisation
-- From Hong Kong 
-- Looking to work in Software Development or Machine Learning in the future
+- Graduate with a degree in Neuroscience and Computer Science
+- Currently working in Long Island, NY
+- Looking to work in Software Development or Machine Learning 
 - Planning to pursue a master's degree
 
 
@@ -20,7 +19,5 @@ How to reach me:
 Email - anthony.yangml@gmail.com 
 
 Linkedin - https://www.linkedin.com/in/man-lung-yang/
-
-Fun fact: I was born on my dad's birthday!
 
 Resume: https://github.com/yangml103/yangml103/blob/main/Resume%20copy.pdf
