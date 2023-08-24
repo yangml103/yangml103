@@ -20,4 +20,4 @@ Email - anthony.yangml@gmail.com
 
 Linkedin - https://www.linkedin.com/in/man-lung-yang/
 
-Resume: https://github.com/yangml103/yangml103/blob/main/Resume%20copy.pdf
+Resume: https://github.com/yangml103/yangml103/blob/main/AYang_Resume.pdf
