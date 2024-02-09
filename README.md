@@ -3,7 +3,6 @@
 Facts about me:
 
 - Graduate with a degree in Neuroscience and Computer Science
-- Currently working in Long Island, NY
 - Looking to work in Software Development or Machine Learning 
 - Planning to pursue a master's degree
 
