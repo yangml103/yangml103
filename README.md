@@ -7,13 +7,6 @@ Facts about me:
 - Looking to work in Software Development or Machine Learning 
 - Planning to pursue a master's degree in Computer Science
 
-
-Ask me about:
-
-- Food recommendations 
-- Greek mythology
-- Japanese sportscars 
-
 How to reach me:
 
 Email - anthony.yangml@gmail.com 
