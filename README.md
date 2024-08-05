@@ -2,14 +2,13 @@
 
 Facts about me:
 
-- Currently working in NYC as a Software Developer
-- Graduate with a degree in Neuroscience and Computer Science
+- Currently working in St. Petersburg, Florida as a Software Developer Intern
+- Master's Student at UPenn majoring in Computer and Information Systems
 - Looking to work in Software Development or Machine Learning 
-- Planning to pursue a master's degree in Computer Science
 
 How to reach me:
 
-Email - anthony.yangml@gmail.com 
+Email - mlyang@seas.upenn.edu
 
 Linkedin - https://www.linkedin.com/in/man-lung-yang/
 
