@@ -1,4 +1,4 @@
-### Hi, I'm Anthony!
+### Hi, I'm Anthony
 
 Facts about me:
 
