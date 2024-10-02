@@ -3,7 +3,6 @@
 Facts about me:
 
 - Master's Student at UPenn majoring in Computer and Information Systems
-- Looking to work in Software Development or Machine Learning 
 
 How to reach me:
 
