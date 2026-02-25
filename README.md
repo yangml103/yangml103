@@ -2,11 +2,12 @@
 
 Facts about me:
 
-- Master's Student at UPenn majoring in Computer and Information Systems
+- Currently in NYC
+- Proficient in C/C++, Python, Pytorch
 
 How to reach me:
 
-Email - mlyang@seas.upenn.edu
+Email - anthony.yang103@gmail.com
 
 Linkedin - https://www.linkedin.com/in/man-lung-yang/
 
